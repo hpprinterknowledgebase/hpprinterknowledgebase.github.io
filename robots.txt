@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://your-hpprinter-domain.example/sitemap.xml
